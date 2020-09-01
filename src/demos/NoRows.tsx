@@ -25,7 +25,7 @@ export default function NoRows() {
       columns={columns}
       rows={rows}
       emptyRowsRenderer={EmptyRowsRenderer}
-      className="small-grid"
+      // className="small-grid"
     />
   );
 }

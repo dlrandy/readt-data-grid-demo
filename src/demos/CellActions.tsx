@@ -151,7 +151,7 @@ export default function CellActions() {
       columns={columns}
       rows={rows}
       rowHeight={55}
-      className="fill-grid"
+      // className="fill-grid"
     />
   );
 }

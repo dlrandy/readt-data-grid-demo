@@ -283,7 +283,7 @@ export default function CommonFeatures() {
       sortDirection={sortDirection}
       onSort={handleSort}
       summaryRows={summaryRows}
-      className="fill-grid"
+      // className="fill-grid"
     />
   );
 }

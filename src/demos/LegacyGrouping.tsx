@@ -150,7 +150,7 @@ export default function LegacyGrouping() {
       columns={columns}
       rows={gridRows}
       rowRenderer={p => <GroupRowRenderer {...p} onRowExpandToggle={onRowExpandToggle} />}
-      className="big-grid"
+      // className="big-grid"
     />
   );
 }

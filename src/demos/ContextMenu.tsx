@@ -79,7 +79,7 @@ export default function ContextMenuStory() {
         columns={columns}
         rows={rows}
         rowRenderer={RowRenderer}
-        className="fill-grid"
+        // className="fill-grid"
       />
       {createPortal(
         <ContextMenu id="grid-context-menu">

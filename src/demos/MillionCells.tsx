@@ -43,7 +43,7 @@ export default function MillionCells() {
       columns={columns}
       rows={rows}
       rowHeight={22}
-      className="fill-grid"
+      // className="fill-grid"
     />
   );
 }
